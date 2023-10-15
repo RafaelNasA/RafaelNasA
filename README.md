@@ -1,16 +1,28 @@
-### Hi there 👋
+### Desenvolvedor de software
 
-<!--
-**RafaelNasA/RafaelNasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tire suas dúvidas aqui 👇
 
-Here are some ideas to get you started:
+--------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tecnológias que aprendendo constantemente
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---------------
+
+- Como entrar em contato comigo
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nascimento61/)
+
+---------------
+
+- Conheça meu projeto mais recente
+
+👉 [Agência Find](https://github.com/RafaelNasA/Projeto-Agencia)
+
+-------------
+"_Os melhores produtos são fáceis de entender, simples de usar e rápidos para resolver o problema._"
+
