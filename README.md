@@ -1,6 +1,4 @@
-### Desenvolvedor de software
-
-Tire suas dúvidas aqui 👇
+### Tire suas dúvidas aqui 👇
 
 --------------------
 
