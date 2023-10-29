@@ -22,5 +22,5 @@
 👉 [Agência Find](https://github.com/RafaelNasA/Projeto-Agencia)
 
 -------------
-"_Os melhores produtos são fáceis de entender, simples de usar e rápidos para resolver o problema._"
+"_As melhores soluções são fáceis de entender, simples de usar e extremamente eficazes._"
 
