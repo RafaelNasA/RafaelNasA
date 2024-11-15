@@ -1,9 +1,8 @@
-### Tire suas dúvidas aqui 👇
-
-![image]({https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
-})
-
+### 👇 Portfólio
+[![Site](https://img.shields.io/badge/RA-Website-000000?style=for-the-badge&logoColor=black)](https://rafael-nascimento.web.app/)
 
 -------------
-"_As melhores soluções são fáceis de entender, simples de usar e extremamente eficazes._"
+
+
+"_Não otimize o que não deveria existir._"
 
